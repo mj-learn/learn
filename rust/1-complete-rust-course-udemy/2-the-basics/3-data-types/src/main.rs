@@ -14,7 +14,7 @@ fn main() {
     let octal = 0o337;
     println!("octal is {}", octal);
 
-    let binary= 0b1111_1111;
+    let binary = 0b1111_1111;
     println!("binary is {}", binary);
 
     let byte = b'A';
