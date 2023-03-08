@@ -20,6 +20,7 @@ My favourite code editor is Neovim
 
 <br />
 
-| CMS Courses             | Duration | Repository | Status |
-| :---------------------- | :------- | :--------- | :----- |
-| 1. Magento 1.9.x - 2016 | 80 hours | -          | Done   |
+| CMS Courses                      | Duration   | Repository | Status |
+| :------------------------------- | :--------- | :--------- | :----- |
+| 1. Joomla 1.x Bootcamp - 2005    | ~ 90 hours | -          | Done   |
+| 2. Magento 1.9.x Bootcamp - 2016 | ~ 80 hours | -          | Done   |
