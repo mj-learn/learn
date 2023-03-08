@@ -20,6 +20,6 @@ My favourite code editor is Neovim
 
 <br />
 
-| CMS Courses                    | Duration | Repository | Status |
-| :----------------------------- | :------- | :--------- | :----- |
-| 1. Magento 1.9.x Basics - 2016 | 80 hours | -          | Done   |
+| CMS Courses             | Duration | Repository | Status |
+| :---------------------- | :------- | :--------- | :----- |
+| 1. Magento 1.9.x - 2016 | 80 hours | -          | Done   |
