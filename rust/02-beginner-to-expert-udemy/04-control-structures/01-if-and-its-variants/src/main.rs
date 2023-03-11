@@ -47,4 +47,33 @@ fn main() {
         grade = 'F';
     }
     println!("grade is: {}", grade);
+    println!();
+
+    // Nested if
+    println!("Enter number");
+    let mut some_num = String::new();
+    std::io::stdin().read_line(&mut some_num).expect("Error");
+    let some_num: i32 = some_num.trim().parse().expect("Error");
+
+    if some_num != 0 {
+        if some_num % 2 == 0 {
+            println!("Number is even");
+        } else {
+            println!("Number is odd");
+        }
+    } else {
+        println!("The number is 0");
+    }
+    println!();
+
+
+    // if let
+    let num = if true {
+        1 // no semicolon on the end
+    } else {
+        2 // no semicolon on the end
+    };
+
+    println!("num is: {}", num);
+
 }
