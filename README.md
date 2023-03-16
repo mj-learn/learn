@@ -4,10 +4,11 @@ This is a repository which contains all the tasks I have done while studying sof
 
 My favourite code editor is Neovim
 
-| Rust courses roadmap                                                                                                                             | Duration | Repository                                                                            | Status |
-| :----------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :----- |
-| 1. [The Complete Rust Programming Course](https://www.udemy.com/course/rust-programming-the-complete-guide/)                                     | 17 hours | [Link](https://github.com/monjofn/learn/tree/main/rust/01-complete-rust-course-udemy) |        |
-| 2. [Rust Programming Master Class: From Beginner to Expert](https://www.udemy.com/course/rust-programming-master-class-from-beginner-to-expert/) | 21 hours | [Link](https://github.com/monjofn/learn/tree/main/rust/02-beginner-to-expert-udemy)   |        |
+| Rust courses roadmap                                                                                                                             | Duration | Repository                                                                             | Status |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :------------------------------------------------------------------------------------- | :----- |
+| 1. [The Complete Rust Programming Course](https://www.udemy.com/course/rust-programming-the-complete-guide/)                                     | 17 hours | [Link](https://github.com/monjofn/learn/tree/main/rust/01-complete-rust-course-udemy)  |        |
+| 2. [Rust Programming Master Class: From Beginner to Expert](https://www.udemy.com/course/rust-programming-master-class-from-beginner-to-expert/) | 21 hours | [Link](https://github.com/monjofn/learn/tree/main/rust/02-beginner-to-expert-udemy)    |        |
+| 3. [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)                                              | 20 hours | [Link](https://github.com/monjofn/learn/tree/main/rust/03-complete-rust-dev-guide-ztm) |        |
 
 <br />
 
