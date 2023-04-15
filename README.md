@@ -20,25 +20,27 @@ My favourite code editor is Neovim
 | 4. [Docker & Kubernetes: The Complete Practical Guide](https://www.udemy.com/course/docker-complete/)                               | 22 hours |  -   | [Done](https://www.udemy.com/certificate/UC-aeeeaf25-b385-4b88-813d-d3cab5699ec5/) |
 | 5. [Docker Mastery: with Kubernetes +Swarm](https://www.udemy.com/course/docker-mastery/)                                           | 21 hours |  -   |                                        40%                                         |
 
+<!--
 <br />
 
-| CompTIA courses roadmap (coming soon ...)                                              | Duration | Repo | Status | CompTIA |
-| :------------------------------------------------------------------------------------- | :------: | :--: | :----: | :-----: |
-| 1. [CompTIA A+ Core 1 (220-1101)](https://www.udemy.com/course/comptia-a-core-1/)      | 26 hours |  -   |   -    |    -    |
-| 2. [CompTIA A+ Core 2 (220-1102)](https://www.udemy.com/course/comptia-a-core-2/)      | 36 hours |  -   |   -    |    -    |
-| 3. [CompTIA Network+ (N10-008)](https://www.udemy.com/course/comptia-network-n10-008/) | 26 hours |  -   |   -    |    -    |
-| 4. [CompTIA Security+ (SY0-601)](https://www.udemy.com/course/securityplus/)           | 22 hours |  -   |   -    |    -    |
-| 5. [CompTIA Linux+ (XK0-005)](https://www.udemy.com/course/comptia-linux/)             | 21 hours |  -   |   -    |    -    |
-| 6. [CompTIA CySA+ (CS0-002)](https://www.udemy.com/course/comptiacsaplus/)             | 33 hours |  -   |   -    |    -    |
-| 7. [CompTIA Pentest+](https://www.udemy.com/course/pentestplus/)                       | 32 hours |  -   |   -    |    -    |
-| 8. [CompTIA CASP+ (CAS-004)](https://www.udemy.com/course/casp-plus/)                  | 26 hours |  -   |   -    |    -    |
-| 9. CompTia Cloud+                                                                      | ?? hours |  -   |   -    |    -    |
-| 10. CompTIA Server+                                                                    | ?? hours |  -   |   -    |    -    |
-| 11. [CompTIA Data+ (DA0-001)](https://www.udemy.com/course/comptia-data/)              | 14 hours |  -   |   -    |    -    |
+| CompTIA courses roadmap                                                                | Duration | Repo | Status |
+| :------------------------------------------------------------------------------------- | :------: | :--: | :----: |
+| 1. [CompTIA A+ Core 1 (220-1101)](https://www.udemy.com/course/comptia-a-core-1/)      | 26 hours |  -   |   -    |
+| 2. [CompTIA A+ Core 2 (220-1102)](https://www.udemy.com/course/comptia-a-core-2/)      | 36 hours |  -   |   -    |
+| 3. [CompTIA Network+ (N10-008)](https://www.udemy.com/course/comptia-network-n10-008/) | 26 hours |  -   |   -    |
+| 4. [CompTIA Security+ (SY0-601)](https://www.udemy.com/course/securityplus/)           | 22 hours |  -   |   -    |
+| 5. [CompTIA Linux+ (XK0-005)](https://www.udemy.com/course/comptia-linux/)             | 21 hours |  -   |   -    |
+| 6. [CompTIA CySA+ (CS0-002)](https://www.udemy.com/course/comptiacsaplus/)             | 33 hours |  -   |   -    |
+| 7. [CompTIA Pentest+](https://www.udemy.com/course/pentestplus/)                       | 32 hours |  -   |   -    |
+| 8. [CompTIA CASP+ (CAS-004)](https://www.udemy.com/course/casp-plus/)                  | 26 hours |  -   |   -    |
+| 9. CompTia Cloud+                                                                      | ?? hours |  -   |   -    |
+| 10. CompTIA Server+                                                                    | ?? hours |  -   |   -    |
+| 11. [CompTIA Data+ (DA0-001)](https://www.udemy.com/course/comptia-data/)              | 14 hours |  -   |   -    |
+-->
 
 <br />
 
 | CMS Courses                      |  Duration  | Repo | Status |
 | :------------------------------- | :--------: | :--: | :----: |
 | 1. Joomla 1.x Bootcamp - 2005    | ~ 90 hours |  -   |  Done  |
-| 2. Magento 1.9.x Bootcamp - 2016 | ~ 80 hours |  -   |  Done  |
+| 2. Magento 1.9.x Bootcamp - 2014 | ~ 80 hours |  -   |  Done  |
