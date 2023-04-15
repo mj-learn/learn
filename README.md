@@ -26,15 +26,15 @@ My favourite code editor is Neovim
 | :------------------------------------------------------------------------------------- | :------: | :--: | :----: | :-----: |
 | 1. [CompTIA A+ Core 1 (220-1101)](https://www.udemy.com/course/comptia-a-core-1/)      | 26 hours |  -   |   -    |    -    |
 | 2. [CompTIA A+ Core 2 (220-1102)](https://www.udemy.com/course/comptia-a-core-2/)      | 36 hours |  -   |   -    |    -    |
-| 3. [CompTIA CASP+ (CAS-004)](https://www.udemy.com/course/casp-plus/)                  | 26 hours |  -   |   -    |    -    |
-| 4. CompTia Cloud+                                                                      | ?? hours |  -   |   -    |    -    |
-| 5. [CompTIA CySA+ (CS0-002)](https://www.udemy.com/course/comptiacsaplus/)             | 33 hours |  -   |   -    |    -    |
-| 6. [CompTIA Data+ (DA0-001)](https://www.udemy.com/course/comptia-data/)               | 14 hours |  -   |   -    |    -    |
-| 7. [CompTIA Linux+ (XK0-005)](https://www.udemy.com/course/comptia-linux/)             | 21 hours |  -   |   -    |    -    |
-| 8. [CompTIA Network+ (N10-008)](https://www.udemy.com/course/comptia-network-n10-008/) | 26 hours |  -   |   -    |    -    |
-| 9. [CompTIA Pentest+](https://www.udemy.com/course/pentestplus/)                       | 32 hours |  -   |   -    |    -    |
+| 3. [CompTIA Network+ (N10-008)](https://www.udemy.com/course/comptia-network-n10-008/) | 26 hours |  -   |   -    |    -    |
+| 4. [CompTIA Security+ (SY0-601)](https://www.udemy.com/course/securityplus/)           | 22 hours |  -   |   -    |    -    |
+| 5. [CompTIA Linux+ (XK0-005)](https://www.udemy.com/course/comptia-linux/)             | 21 hours |  -   |   -    |    -    |
+| 6. [CompTIA CySA+ (CS0-002)](https://www.udemy.com/course/comptiacsaplus/)             | 33 hours |  -   |   -    |    -    |
+| 7. [CompTIA Pentest+](https://www.udemy.com/course/pentestplus/)                       | 32 hours |  -   |   -    |    -    |
+| 8. [CompTIA CASP+ (CAS-004)](https://www.udemy.com/course/casp-plus/)                  | 26 hours |  -   |   -    |    -    |
+| 9. CompTia Cloud+                                                                      | ?? hours |  -   |   -    |    -    |
 | 10. CompTIA Server+                                                                    | ?? hours |  -   |   -    |    -    |
-| 11. [CompTIA Security+ (SY0-601)](https://www.udemy.com/course/securityplus/)          | 22 hours |  -   |   -    |    -    |
+| 11. [CompTIA Data+ (DA0-001)](https://www.udemy.com/course/comptia-data/)              | 14 hours |  -   |   -    |    -    |
 
 <br />
 
