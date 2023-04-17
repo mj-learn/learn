@@ -12,13 +12,13 @@ My favourite code editor is Neovim
 
 <br />
 
-| DevOps courses roadmap                                                                                                              | Duration | Repo |                                       Status                                       |
-| :---------------------------------------------------------------------------------------------------------------------------------- | :------: | :--: | :--------------------------------------------------------------------------------: |
-| 1. [Complete Linux Training Course (CentOS)](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/) | 36 hours |  -   | [Done](https://www.udemy.com/certificate/UC-807c035c-577a-464a-b57d-6c7392ae06e8/) |
-| 2. [DevOps Bootcamp: Become a Linux Sysadmin (Ubuntu)](https://zerotomastery.io/courses/devops-bootcamp/)                           | 21 hours |  -   |                                    34% - Active                                    |
-| 3. [The Complete Git Guide: Understand and master Git and GitHub](https://www.udemy.com/course/git-and-github-complete-guide/)      | 23 hours |  -   | [Done](https://www.udemy.com/certificate/UC-3c46ec19-5675-4669-bcb1-b0bea179bd72/) |
-| 4. [Docker & Kubernetes: The Complete Practical Guide](https://www.udemy.com/course/docker-complete/)                               | 22 hours |  -   | [Done](https://www.udemy.com/certificate/UC-aeeeaf25-b385-4b88-813d-d3cab5699ec5/) |
-| 5. [Docker Mastery: with Kubernetes +Swarm](https://www.udemy.com/course/docker-mastery/)                                           | 21 hours |  -   |                                        40%                                         |
+| DevOps courses roadmap                                                                                                                     | Duration | Repo |                                       Status                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------- | :------: | :--: | :--------------------------------------------------------------------------------: |
+| 1. [[RHCSA - EX200] Complete Linux Course (CentOS)](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/) | 36 hours |  -   | [Done](https://www.udemy.com/certificate/UC-807c035c-577a-464a-b57d-6c7392ae06e8/) |
+| 2. [DevOps Bootcamp: Become a Linux Sysadmin (Ubuntu)](https://zerotomastery.io/courses/devops-bootcamp/)                                  | 21 hours |  -   |                                    34% - Active                                    |
+| 3. [Complete Git Guide: Master Git and GitHub](https://www.udemy.com/course/git-and-github-complete-guide/)                                | 23 hours |  -   | [Done](https://www.udemy.com/certificate/UC-3c46ec19-5675-4669-bcb1-b0bea179bd72/) |
+| 4. [Docker & Kubernetes: The Complete Practical Guide](https://www.udemy.com/course/docker-complete/)                                      | 22 hours |  -   | [Done](https://www.udemy.com/certificate/UC-aeeeaf25-b385-4b88-813d-d3cab5699ec5/) |
+| 5. [Docker Mastery: with Kubernetes +Swarm](https://www.udemy.com/course/docker-mastery/)                                                  | 21 hours |  -   |                                        40%                                         |
 
 <!--
 <br />
@@ -31,10 +31,10 @@ My favourite code editor is Neovim
 | 4. [CompTIA Security+ (SY0-601)](https://www.udemy.com/course/securityplus/)           | 22 hours |  -   |   -    |
 | 5. [CompTIA Linux+ (XK0-005)](https://www.udemy.com/course/comptia-linux/)             | 21 hours |  -   |   -    |
 | 6. [CompTIA CySA+ (CS0-002)](https://www.udemy.com/course/comptiacsaplus/)             | 33 hours |  -   |   -    |
-| 7. [CompTIA Pentest+](https://www.udemy.com/course/pentestplus/)                       | 32 hours |  -   |   -    |
+| 7. [CompTIA Pentest+ (PT0-002)](https://www.udemy.com/course/pentestplus/)             | 32 hours |  -   |   -    |
 | 8. [CompTIA CASP+ (CAS-004)](https://www.udemy.com/course/casp-plus/)                  | 26 hours |  -   |   -    |
-| 9. CompTia Cloud+                                                                      | ?? hours |  -   |   -    |
-| 10. CompTIA Server+                                                                    | ?? hours |  -   |   -    |
+| 9. CompTIA Server+                                                                     | ?? hours |  -   |   -    |
+| 10. CompTia Cloud+                                                                     | ?? hours |  -   |   -    |
 | 11. [CompTIA Data+ (DA0-001)](https://www.udemy.com/course/comptia-data/)              | 14 hours |  -   |   -    |
 -->
 
