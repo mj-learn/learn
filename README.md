@@ -20,14 +20,15 @@ My favourite code editor is Neovim
 | 4. [Docker & Kubernetes: The Complete Practical Guide](https://www.udemy.com/course/docker-complete/)                                      | 22 hours |  -   | [Done](https://www.udemy.com/certificate/UC-aeeeaf25-b385-4b88-813d-d3cab5699ec5/) |
 | 5. [Docker Mastery: with Kubernetes +Swarm](https://www.udemy.com/course/docker-mastery/)                                                  | 21 hours |  -   |                                        40%                                         |
 
-<!--
 <br />
 
-| CompTIA courses roadmap                                                                | Duration | Repo | Status |
-| :------------------------------------------------------------------------------------- | :------: | :--: | :----: |
+| CompTIA courses roadmap                                                                | Duration | Repo |    Status    |
+| :------------------------------------------------------------------------------------- | :------: | :--: | :----------: |
+| 3. [CompTIA Network+ (N10-008)](https://www.udemy.com/course/comptia-network-n10-008/) | 26 hours |  -   | 10% - Active |
+
+<!--
 | 1. [CompTIA A+ Core 1 (220-1101)](https://www.udemy.com/course/comptia-a-core-1/)      | 26 hours |  -   |   -    |
 | 2. [CompTIA A+ Core 2 (220-1102)](https://www.udemy.com/course/comptia-a-core-2/)      | 36 hours |  -   |   -    |
-| 3. [CompTIA Network+ (N10-008)](https://www.udemy.com/course/comptia-network-n10-008/) | 26 hours |  -   |   -    |
 | 4. [CompTIA Security+ (SY0-601)](https://www.udemy.com/course/securityplus/)           | 22 hours |  -   |   -    |
 | 5. [CompTIA Linux+ (XK0-005)](https://www.udemy.com/course/comptia-linux/)             | 21 hours |  -   |   -    |
 | 6. [CompTIA CySA+ (CS0-002)](https://www.udemy.com/course/comptiacsaplus/)             | 33 hours |  -   |   -    |
