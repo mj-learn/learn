@@ -1,3 +1,10 @@
+```
+This repository is deprecated!!
+
+In order not to become one bloated repository, I decided to create an organization in which
+to keep all the repositories for the individual languages and IT things that I learn.
+```
+
 ## Learning Programming
 
 This is a repository which contains all the tasks I have done while studying software engineering
@@ -45,3 +52,7 @@ My favourite code editor is Neovim
 | :------------------------------- | :--------: | :--: | :----: |
 | 1. Joomla 1.x Bootcamp - 2005    | ~ 90 hours |  -   |  Done  |
 | 2. Magento 1.9.x Bootcamp - 2014 | ~ 80 hours |  -   |  Done  |
+
+```
+
+```
